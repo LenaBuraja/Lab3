@@ -1,0 +1,18 @@
+﻿  Game.cpp
+  Создание кода...
+  Компиляция...
+  Word.cpp
+  Virus.cpp
+e:\проба\lab2\lab2\os.h(16): warning C4091: static : пропускается слева от "OS", когда ни одна переменная не объявлена
+  TextEditor.cpp
+e:\проба\lab2\lab2\texteditor.cpp(28): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+  Source.cpp
+e:\проба\lab2\lab2\os.h(16): warning C4091: static : пропускается слева от "OS", когда ни одна переменная не объявлена
+  Soft.cpp
+e:\проба\lab2\lab2\soft.cpp(38): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+  Minesweeper.cpp
+  Создание кода...
+  Lab2.vcxproj -> E:\Проба\Lab2\Debug\Lab2.exe
+  Lab2.vcxproj -> E:\Проба\Lab2\Debug\Lab2.pdb (Full PDB)
